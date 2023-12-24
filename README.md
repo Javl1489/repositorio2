@@ -1,2 +1,3 @@
-reposositorio2
-segundo commit 
+ireposositorio2
+segundo commit
+ingreso rama 2 
